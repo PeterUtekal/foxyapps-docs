@@ -20,9 +20,9 @@
 
 Your iFrame code should look something like this:
 
-\`\`\`
+```
 <iframe src="https://www.foxyapps.com/path/to/your/embed" width="100%" height="500" frameborder="0"></iframe>
-\`\`\`
+```
 
 Remember to adjust the `width`, `height`, and `src` attributes as needed.
 
