@@ -19,7 +19,7 @@
 
 Your iFrame code should look something like this:
 
-`{{code}}`
+```{{code}}```
 
 Remember to adjust the `width`, `height`, and `src` attributes as needed.
 
